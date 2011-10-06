@@ -3,6 +3,7 @@
 # Ignore Eagle backups
 *.b*
 *.s*
+*.g*
 
 # Except for...
 !*.brd
