@@ -3,7 +3,16 @@
 # Ignore Eagle backups
 *.b*
 *.s*
-*.g*
+.gpi
+.GBL
+.GBO
+.GBS
+.GTL
+.GTO
+.GTP
+.GTS
+.TXT
+.dri
 
 # Except for...
 !*.brd
