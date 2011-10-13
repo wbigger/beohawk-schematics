@@ -13,6 +13,7 @@
 .GTS
 .TXT
 .dri
+.pro
 
 # Except for...
 !*.brd
