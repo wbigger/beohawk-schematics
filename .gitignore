@@ -1,5 +1,8 @@
 .DS_Store
 
+# Archives
+*.zip
+
 # Ignore Eagle backups
 *.b*
 *.s*
