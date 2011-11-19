@@ -6,6 +6,7 @@
 # Ignore Eagle backups
 *.b*
 *.s*
+*.l*
 *.gpi
 *.GBL
 *.GBO
